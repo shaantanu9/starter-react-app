@@ -28,7 +28,10 @@
     ]
   },
   "dependencies": {
-    "express": "^4.17.3"
+    "axios": "^0.27.2",
+    "express": "^4.17.3",
+    "react-router": "^6.4.1",
+    "react-router-dom": "^6.4.1"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.16.2",
